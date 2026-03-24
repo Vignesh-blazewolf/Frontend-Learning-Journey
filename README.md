@@ -4,3 +4,5 @@ Frontend Development Journey : A structured repository showcasing projects built
 **Frontend Development Journey – Consistent Learning and Real-World Projects**
 
 This repository documents a structured 30-day journey focused on mastering modern frontend development using HTML, CSS, JavaScript, Bootstrap, and React. It showcases daily progress through hands-on projects, practical implementations, and incremental improvements aimed at building strong UI/UX fundamentals and interactive web applications
+
+The goal of this repository is to maintain consistent development activity while creating a solid portfolio of responsive, user-friendly, and scalable frontend projects.
