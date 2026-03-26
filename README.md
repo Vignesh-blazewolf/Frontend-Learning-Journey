@@ -11,6 +11,6 @@ The goal of this repository is to maintain consistent development activity while
 
 **VIGNESHWARAN**
 
-Aspiring FULL STACK DEVELOPER
+Aspiring **FULL STACK DEVELOPER**
 
 Passionate about software development, databases, and building scalable applications.
