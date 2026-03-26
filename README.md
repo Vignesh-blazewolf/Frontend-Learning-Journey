@@ -7,7 +7,7 @@ This repository documents a structured 30-day journey focused on mastering moder
 
 The goal of this repository is to maintain consistent development activity while creating a solid portfolio of responsive, user-friendly, and scalable frontend projects.
  
-AUTHOR
+**AUTHOR**
 
 VIGNESHWARAN
 
