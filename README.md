@@ -8,6 +8,7 @@ This repository documents a structured 30-day journey focused on mastering moder
 The goal of this repository is to maintain consistent development activity while creating a solid portfolio of responsive, user-friendly, and scalable frontend projects.
 
 **Day 1: Created basic HTML About Me page using semantic structure**
+--> Created a basic HTML page using semantic tags like header, section, and footer.
  
 **AUTHOR**
 
