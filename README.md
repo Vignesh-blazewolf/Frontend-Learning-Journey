@@ -10,7 +10,7 @@ The goal of this repository is to maintain consistent development activity while
 **Day 1: Created basic HTML About Me page using semantic structure**
 --> Created a basic HTML page using semantic tags like header, section, and footer.
 
-Concepts Used
+**Concepts Used**
  
 **AUTHOR**
 
