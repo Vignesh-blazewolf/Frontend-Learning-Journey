@@ -11,6 +11,7 @@ The goal of this repository is to maintain consistent development activity while
 --> Created a basic HTML page using semantic tags like header, section, and footer.
 
 **Concepts Used**
+--> HTML structure
  
 **AUTHOR**
 
