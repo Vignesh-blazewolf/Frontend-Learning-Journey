@@ -20,6 +20,7 @@ The goal of this repository is to maintain consistent development activity while
 
 **Concepts Used**
 --> header, nav, main, section, article, aside, footer
+--> Page structure organization
  
 **AUTHOR**
 
