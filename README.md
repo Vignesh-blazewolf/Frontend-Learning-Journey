@@ -17,6 +17,8 @@ The goal of this repository is to maintain consistent development activity while
 
 **Day 2: Semantic HTML Layout**
 --> Improved the HTML structure using semantic elements.
+
+**Concepts Used**
  
 **AUTHOR**
 
