@@ -19,6 +19,7 @@ The goal of this repository is to maintain consistent development activity while
 --> Improved the HTML structure using semantic elements.
 
 **Concepts Used**
+--> header, nav, main, section, article, aside, footer
  
 **AUTHOR**
 
