@@ -15,7 +15,7 @@ The goal of this repository is to maintain consistent development activity while
 --> Semantic elements
 --> Lists and text content
 
-Day 2: Semantic HTML Layout
+**Day 2: Semantic HTML Layout**
  
 **AUTHOR**
 
