@@ -14,6 +14,8 @@ The goal of this repository is to maintain consistent development activity while
 --> HTML structure
 --> Semantic elements
 --> Lists and text content
+
+Day 2: 
  
 **AUTHOR**
 
