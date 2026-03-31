@@ -24,6 +24,8 @@ The goal of this repository is to maintain consistent development activity while
 --> Basic navigation
 
 **Day 3 : CSS Styling**
+--> Added CSS to style the HTML page.
+
  
 **AUTHOR**
 
