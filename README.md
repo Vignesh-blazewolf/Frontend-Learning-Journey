@@ -22,6 +22,8 @@ The goal of this repository is to maintain consistent development activity while
 --> header, nav, main, section, article, aside, footer
 --> Page structure organization
 --> Basic navigation
+
+**Day 3 : CSS Styling**
  
 **AUTHOR**
 
