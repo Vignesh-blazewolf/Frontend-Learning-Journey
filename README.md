@@ -27,6 +27,7 @@ The goal of this repository is to maintain consistent development activity while
 --> Added CSS to style the HTML page.
 
 **Concepts Used**
+--> External CSS
 
  
 **AUTHOR**
