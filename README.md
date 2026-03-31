@@ -28,6 +28,7 @@ The goal of this repository is to maintain consistent development activity while
 
 **Concepts Used**
 --> External CSS
+--> Colors and backgrounds
 
  
 **AUTHOR**
