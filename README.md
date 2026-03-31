@@ -30,6 +30,7 @@ The goal of this repository is to maintain consistent development activity while
 --> External CSS
 --> Colors and backgrounds
 --> Spacing and padding
+--> Basic layout styling
 
  
 **AUTHOR**
