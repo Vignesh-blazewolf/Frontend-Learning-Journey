@@ -32,7 +32,7 @@ The goal of this repository is to maintain consistent development activity while
 --> Spacing and padding
 --> Basic layout styling
 
-Day 4 - Flexbox Layout
+**Day 4 - Flexbox Layout**
 
  
 **AUTHOR**
