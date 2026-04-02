@@ -40,6 +40,7 @@ The goal of this repository is to maintain consistent development activity while
 --> justify-content
 --> align-items
 --> flex ratios
+--> layout structuring
  
 **AUTHOR**
 
