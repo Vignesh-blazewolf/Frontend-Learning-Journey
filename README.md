@@ -37,6 +37,7 @@ The goal of this repository is to maintain consistent development activity while
 
 **Concepts Used**
 --> display: flex
+--> justify-content
  
 **AUTHOR**
 
