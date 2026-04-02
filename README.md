@@ -39,6 +39,7 @@ The goal of this repository is to maintain consistent development activity while
 --> display: flex
 --> justify-content
 --> align-items
+--> flex ratios
  
 **AUTHOR**
 
