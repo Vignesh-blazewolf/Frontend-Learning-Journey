@@ -33,6 +33,7 @@ The goal of this repository is to maintain consistent development activity while
 --> Basic layout styling
 
 **Day 4 - Flexbox Layout**
+--> Implemented Flexbox to create a responsive layout.
 
  
 **AUTHOR**
