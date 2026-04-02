@@ -36,6 +36,7 @@ The goal of this repository is to maintain consistent development activity while
 --> Implemented Flexbox to create a responsive layout.
 
 **Concepts Used**
+--> display: flex
  
 **AUTHOR**
 
