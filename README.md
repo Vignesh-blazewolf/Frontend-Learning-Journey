@@ -46,7 +46,8 @@ The goal of this repository is to maintain consistent development activity while
 -->Implemented CSS Grid for page layout.
 
 **Concepts Used**
---> - display: grid
+--> display: grid
+--> grid-template-areas
  
 **AUTHOR**
 
