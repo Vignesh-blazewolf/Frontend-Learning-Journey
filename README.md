@@ -49,6 +49,7 @@ The goal of this repository is to maintain consistent development activity while
 --> display: grid
 --> grid-template-areas
 --> grid-template-columns
+--> layout structuring
  
 **AUTHOR**
 
