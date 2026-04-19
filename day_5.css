@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Grid Layout */
+.grid-container {
+    display: grid;
+    grid-template-areas:
+        "header header"
+        "nav nav"
+        "main sidebar"
+        "footer footer";
+    grid-template-columns: 2fr 1fr;
+    gap: 10px;
+    padding: 10px;
+}
+
+/* Assign grid areas */
+.header {
+    grid-area: header;
+    background: #333;
+    color: white;
+    padding: 15px;
+}
+
+.nav {
+    grid-area: nav;
+    background: #555;
+    padding: 10px;
+}
+
+.nav a {
+    color: white;
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+.main {
+    grid-area: main;
+    background: #f4f4f4;
+    padding: 15px;
+}
+
+.sidebar {
+    grid-area: sidebar;
+    background: #ddd;
+    padding: 15px;
+}
+
+.footer {
+    grid-area: footer;
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
