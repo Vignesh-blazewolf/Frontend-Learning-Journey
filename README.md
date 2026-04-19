@@ -42,8 +42,10 @@ The goal of this repository is to maintain consistent development activity while
 --> flex ratios
 --> layout structuring
 
-Day 5 - CSS Grid Layout
+**Day 5 - CSS Grid Layout**
 -->Implemented CSS Grid for page layout.
+
+Concepts Used
  
 **AUTHOR**
 
