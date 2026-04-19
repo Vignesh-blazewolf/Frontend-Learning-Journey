@@ -48,6 +48,7 @@ The goal of this repository is to maintain consistent development activity while
 **Concepts Used**
 --> display: grid
 --> grid-template-areas
+--> grid-template-columns
  
 **AUTHOR**
 
