@@ -41,6 +41,8 @@ The goal of this repository is to maintain consistent development activity while
 --> align-items
 --> flex ratios
 --> layout structuring
+
+ Day 5 - CSS Grid Layout
  
 **AUTHOR**
 
