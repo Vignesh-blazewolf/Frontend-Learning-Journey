@@ -55,6 +55,7 @@ The goal of this repository is to maintain consistent development activity while
 --> Created a modern landing page with hero section and feature cards.
 
 **Concepts Used**
+--> Flexbox layout
  
 **AUTHOR**
 
