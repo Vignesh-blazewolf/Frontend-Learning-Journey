@@ -58,6 +58,7 @@ The goal of this repository is to maintain consistent development activity while
 --> Flexbox layout
 --> Hero section design
 --> Buttons and UI components
+--> Basic responsive structure
  
 **AUTHOR**
 
