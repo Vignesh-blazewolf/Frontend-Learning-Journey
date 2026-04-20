@@ -43,7 +43,7 @@ The goal of this repository is to maintain consistent development activity while
 --> layout structuring
 
 **Day 5 - CSS Grid Layout**
--->Implemented CSS Grid for page layout.
+--> Implemented CSS Grid for page layout.
 
 **Concepts Used**
 --> display: grid
@@ -51,7 +51,8 @@ The goal of this repository is to maintain consistent development activity while
 --> grid-template-columns
 --> layout structuring
 
-# Day 6 - Landing Page
+**Day 6 - Landing Page**
+--> Created a modern landing page with hero section and feature cards.
  
 **AUTHOR**
 
