@@ -50,6 +50,8 @@ The goal of this repository is to maintain consistent development activity while
 --> grid-template-areas
 --> grid-template-columns
 --> layout structuring
+
+# Day 6 - Landing Page
  
 **AUTHOR**
 
