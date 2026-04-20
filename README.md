@@ -53,6 +53,8 @@ The goal of this repository is to maintain consistent development activity while
 
 **Day 6 - Landing Page**
 --> Created a modern landing page with hero section and feature cards.
+
+ Concepts Used
  
 **AUTHOR**
 
