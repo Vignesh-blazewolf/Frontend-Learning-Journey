@@ -64,6 +64,7 @@ The goal of this repository is to maintain consistent development activity while
  --> Added animations and transitions to improve UI interaction.
 
 **Concepts Used**
+--> transition
 **AUTHOR**
 
 **VIGNESHWARAN**
