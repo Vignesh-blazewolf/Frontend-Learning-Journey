@@ -60,7 +60,7 @@ The goal of this repository is to maintain consistent development activity while
 --> Buttons and UI components
 --> Basic responsive structure
 
-Day 7 - CSS Animations
+**Day 7 - CSS Animations**
  
 **AUTHOR**
 
