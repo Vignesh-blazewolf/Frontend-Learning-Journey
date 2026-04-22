@@ -61,8 +61,9 @@ The goal of this repository is to maintain consistent development activity while
 --> Basic responsive structure
 
 **Day 7 - CSS Animations**
-
  --> Added animations and transitions to improve UI interaction.
+
+ Concepts Used
 **AUTHOR**
 
 **VIGNESHWARAN**
