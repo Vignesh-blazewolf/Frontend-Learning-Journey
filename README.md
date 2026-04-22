@@ -67,6 +67,8 @@ The goal of this repository is to maintain consistent development activity while
 --> transition
 --> transform (scale, translate)
 --> hover effects
+--> @keyframes animation
+
 **AUTHOR**
 
 **VIGNESHWARAN**
