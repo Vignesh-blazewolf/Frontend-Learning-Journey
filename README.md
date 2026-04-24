@@ -73,6 +73,7 @@ The goal of this repository is to maintain consistent development activity while
 --> Learned how to manipulate HTML elements using JavaScript.
 
 **Concepts Used**
+--> document.getElementById()
 
 **AUTHOR**
 
