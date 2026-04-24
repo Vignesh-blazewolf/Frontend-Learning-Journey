@@ -69,7 +69,7 @@ The goal of this repository is to maintain consistent development activity while
 --> hover effects
 --> @keyframes animation
 
-Day 8 - DOM Manipulation
+**Day 8 - DOM Manipulation**
 
 **AUTHOR**
 
