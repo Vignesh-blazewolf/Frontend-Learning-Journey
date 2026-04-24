@@ -70,6 +70,7 @@ The goal of this repository is to maintain consistent development activity while
 --> @keyframes animation
 
 **Day 8 - DOM Manipulation**
+--> Learned how to manipulate HTML elements using JavaScript.
 
 **AUTHOR**
 
