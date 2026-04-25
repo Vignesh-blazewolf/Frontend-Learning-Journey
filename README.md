@@ -77,6 +77,8 @@ The goal of this repository is to maintain consistent development activity while
 --> textContent
 --> onclick event
 
+Day 9 - Counter App
+
 **AUTHOR**
 
 **VIGNESHWARAN**
