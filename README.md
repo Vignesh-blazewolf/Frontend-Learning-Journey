@@ -85,7 +85,7 @@ The goal of this repository is to maintain consistent development activity while
 --> Decrement counter
 --> Reset counter
 
-Concepts Used
+**Concepts Used**
 
 **AUTHOR**
 
