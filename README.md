@@ -80,6 +80,8 @@ The goal of this repository is to maintain consistent development activity while
 **Day 9 - Counter App**
 --> Built a simple counter application using JavaScript.
 
+Features
+
 **AUTHOR**
 
 **VIGNESHWARAN**
