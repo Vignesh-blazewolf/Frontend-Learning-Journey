@@ -86,6 +86,7 @@ The goal of this repository is to maintain consistent development activity while
 --> Reset counter
 
 **Concepts Used**
+--> Variables
 
 **AUTHOR**
 
