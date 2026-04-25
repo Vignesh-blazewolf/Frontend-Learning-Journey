@@ -82,6 +82,7 @@ The goal of this repository is to maintain consistent development activity while
 
 **Features**
 --> Increment counter
+--> Decrement counter
 
 **AUTHOR**
 
