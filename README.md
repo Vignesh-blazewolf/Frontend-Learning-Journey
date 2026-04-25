@@ -89,6 +89,7 @@ The goal of this repository is to maintain consistent development activity while
 --> Variables
 --> Functions
 --> DOM manipulation
+--> Event handling
 
 **AUTHOR**
 
