@@ -91,7 +91,7 @@ The goal of this repository is to maintain consistent development activity while
 --> DOM manipulation
 --> Event handling
 
-Day 10 - Digital Clock
+**Day 10 - Digital Clock**
 
 **AUTHOR**
 
