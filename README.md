@@ -95,6 +95,7 @@ The goal of this repository is to maintain consistent development activity while
 --> Built a real-time digital clock using JavaScript.
 
 **Concepts Used**
+--> Date object
 **AUTHOR**
 
 **VIGNESHWARAN**
