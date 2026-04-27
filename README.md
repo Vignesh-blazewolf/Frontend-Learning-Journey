@@ -92,7 +92,7 @@ The goal of this repository is to maintain consistent development activity while
 --> Event handling
 
 **Day 10 - Digital Clock**
-
+--> Built a real-time digital clock using JavaScript.
 **AUTHOR**
 
 **VIGNESHWARAN**
