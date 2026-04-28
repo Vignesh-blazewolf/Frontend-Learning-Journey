@@ -108,7 +108,7 @@ The goal of this repository is to maintain consistent development activity while
 --> Input validation
 --> Error messages
 
-Concepts Used
+**Concepts Used**
 
 **AUTHOR**
 
