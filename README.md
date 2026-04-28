@@ -105,6 +105,7 @@ The goal of this repository is to maintain consistent development activity while
 
 **Features**
 --> Name, Email, Password fields
+--> Input validation
 
 **AUTHOR**
 
