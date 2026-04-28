@@ -111,6 +111,7 @@ The goal of this repository is to maintain consistent development activity while
 **Concepts Used**
 --> Form handling
 --> Event listeners
+--> Input validation logic
 
 **AUTHOR**
 
