@@ -103,6 +103,8 @@ The goal of this repository is to maintain consistent development activity while
 **Day 11 - Form Validation**
 --> Built a signup form with validation.
 
+Features
+
 **AUTHOR**
 
 **VIGNESHWARAN**
