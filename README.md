@@ -100,7 +100,7 @@ The goal of this repository is to maintain consistent development activity while
 --> Time formatting
 --> DOM updates
 
-Day 11 - Form Validation
+**Day 11 - Form Validation**
 
 **AUTHOR**
 
