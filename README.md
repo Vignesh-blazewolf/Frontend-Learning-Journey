@@ -114,6 +114,7 @@ The goal of this repository is to maintain consistent development activity while
 --> Input validation logic
 
 **Day 12 - To-Do App**
+--> Built a simple To-Do list application.
 
 **AUTHOR**
 
