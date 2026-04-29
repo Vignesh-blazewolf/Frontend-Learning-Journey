@@ -122,6 +122,7 @@ The goal of this repository is to maintain consistent development activity while
 --> Dynamic UI updates
 
 **Concepts Used**
+--> DOM manipulation
 
 
 
