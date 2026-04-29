@@ -117,6 +117,7 @@ The goal of this repository is to maintain consistent development activity while
 --> Built a simple To-Do list application.
 
 **Features**
+--> Add tasks
 
 
 
