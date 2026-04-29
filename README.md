@@ -124,6 +124,7 @@ The goal of this repository is to maintain consistent development activity while
 **Concepts Used**
 --> DOM manipulation
 --> Event handling
+--> Dynamic element creation
 
 
 
