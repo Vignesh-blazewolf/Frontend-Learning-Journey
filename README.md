@@ -113,6 +113,8 @@ The goal of this repository is to maintain consistent development activity while
 --> Event listeners
 --> Input validation logic
 
+Day 12 - To-Do App
+
 **AUTHOR**
 
 **VIGNESHWARAN**
