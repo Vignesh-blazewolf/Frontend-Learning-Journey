@@ -121,7 +121,7 @@ The goal of this repository is to maintain consistent development activity while
 --> Delete tasks
 --> Dynamic UI updates
 
-Concepts Used
+**Concepts Used**
 
 
 
