@@ -138,6 +138,8 @@ The goal of this repository is to maintain consistent development activity while
 --> localStorage
 --> JSON.stringify()
 --> JSON.parse()
+--> Data persistence
+
 **AUTHOR**
 
 **VIGNESHWARAN**
