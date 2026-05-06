@@ -129,6 +129,8 @@ The goal of this repository is to maintain consistent development activity while
 **Day 13 - To-Do App with Local Storage**
 --> Enhanced To-Do app by adding local storage support.
 
+Features
+
 
 **AUTHOR**
 
