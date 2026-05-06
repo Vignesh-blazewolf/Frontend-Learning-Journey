@@ -130,6 +130,7 @@ The goal of this repository is to maintain consistent development activity while
 --> Enhanced To-Do app by adding local storage support.
 
 **Features**
+--> Tasks persist after refresh
 
 
 **AUTHOR**
