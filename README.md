@@ -135,6 +135,7 @@ The goal of this repository is to maintain consistent development activity while
 --> Data stored in browser
 
 **Concepts Used**
+--> localStorage
 **AUTHOR**
 
 **VIGNESHWARAN**
