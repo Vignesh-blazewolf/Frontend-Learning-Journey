@@ -134,7 +134,7 @@ The goal of this repository is to maintain consistent development activity while
 --> Add and delete functionality
 --> Data stored in browser
 
-Concepts Used
+**Concepts Used**
 **AUTHOR**
 
 **VIGNESHWARAN**
