@@ -132,7 +132,7 @@ The goal of this repository is to maintain consistent development activity while
 **Features**
 --> Tasks persist after refresh
 --> Add and delete functionality
-
+--> Data stored in browser
 **AUTHOR**
 
 **VIGNESHWARAN**
