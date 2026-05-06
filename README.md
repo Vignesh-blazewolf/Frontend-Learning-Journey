@@ -126,7 +126,7 @@ The goal of this repository is to maintain consistent development activity while
 --> Event handling
 --> Dynamic element creation
 
-Day 13 - To-Do App with Local Storage
+**Day 13 - To-Do App with Local Storage**
 
 
 **AUTHOR**
