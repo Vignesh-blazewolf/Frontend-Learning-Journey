@@ -137,6 +137,7 @@ The goal of this repository is to maintain consistent development activity while
 **Concepts Used**
 --> localStorage
 --> JSON.stringify()
+--> JSON.parse()
 **AUTHOR**
 
 **VIGNESHWARAN**
