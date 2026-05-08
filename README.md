@@ -152,6 +152,7 @@ The goal of this repository is to maintain consistent development activity while
 --> Fetch API
 --> Async/Await
 --> JSON handling
+--> API integration
 
 **AUTHOR**
 
