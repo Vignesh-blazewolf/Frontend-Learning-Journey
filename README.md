@@ -150,6 +150,7 @@ The goal of this repository is to maintain consistent development activity while
 
 **Concepts Used**
 --> Fetch API
+--> Async/Await
 
 **AUTHOR**
 
