@@ -148,7 +148,7 @@ The goal of this repository is to maintain consistent development activity while
 --> Display author name
 --> Dynamic content updates
 
-Concepts Used
+**Concepts Used**
 
 **AUTHOR**
 
