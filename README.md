@@ -149,6 +149,7 @@ The goal of this repository is to maintain consistent development activity while
 --> Dynamic content updates
 
 **Concepts Used**
+--> Fetch API
 
 **AUTHOR**
 
