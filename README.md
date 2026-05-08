@@ -140,7 +140,7 @@ The goal of this repository is to maintain consistent development activity while
 --> JSON.parse()
 --> Data persistence
 
-Day 14 - Random Quote Generator
+**Day 14 - Random Quote Generator**
 
 **AUTHOR**
 
