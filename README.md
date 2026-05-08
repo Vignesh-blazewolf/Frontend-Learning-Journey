@@ -144,6 +144,7 @@ The goal of this repository is to maintain consistent development activity while
 --> Built a quote generator using API integration.
 
 **Features**
+--> Fetch random quotes
 
 **AUTHOR**
 
