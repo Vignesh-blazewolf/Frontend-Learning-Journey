@@ -143,7 +143,7 @@ The goal of this repository is to maintain consistent development activity while
 **Day 14 - Random Quote Generator**
 --> Built a quote generator using API integration.
 
-Features
+**Features**
 
 **AUTHOR**
 
