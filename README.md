@@ -146,6 +146,7 @@ The goal of this repository is to maintain consistent development activity while
 **Features**
 --> Fetch random quotes
 --> Display author name
+--> Dynamic content updates
 
 **AUTHOR**
 
