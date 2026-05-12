@@ -162,6 +162,7 @@ The goal of this repository is to maintain consistent development activity while
 --> Grid system
 --> Responsive columns
 --> Bootstrap utility classes
+--> Cards and buttons
 
 **AUTHOR**
 
