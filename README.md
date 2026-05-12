@@ -155,6 +155,7 @@ The goal of this repository is to maintain consistent development activity while
 --> API integration
 
 **Day 15 - Bootstrap Responsive Layout**
+-->Created a responsive webpage using Bootstrap
 
 **AUTHOR**
 
