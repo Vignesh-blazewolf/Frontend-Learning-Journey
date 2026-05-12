@@ -154,6 +154,8 @@ The goal of this repository is to maintain consistent development activity while
 --> JSON handling
 --> API integration
 
+Day 15 - Bootstrap Responsive Layout
+
 **AUTHOR**
 
 **VIGNESHWARAN**
