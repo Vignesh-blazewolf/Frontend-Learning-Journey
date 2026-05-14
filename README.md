@@ -171,6 +171,7 @@ The goal of this repository is to maintain consistent development activity while
 --> Responsive navbar
 --> Hero section
 --> Bootstrap cards
+--> Mobile-friendly layout
 
 **AUTHOR**
 
