@@ -167,6 +167,8 @@ The goal of this repository is to maintain consistent development activity while
 **Day 16 - Responsive Navbar & Cards UI**
 --> Built a responsive UI using Bootstrap components.
 
+Features
+
 **AUTHOR**
 
 **VIGNESHWARAN**
