@@ -168,6 +168,7 @@ The goal of this repository is to maintain consistent development activity while
 --> Built a responsive UI using Bootstrap components.
 
 **Features**
+--> Responsive navbar
 
 **AUTHOR**
 
