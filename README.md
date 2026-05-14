@@ -164,6 +164,8 @@ The goal of this repository is to maintain consistent development activity while
 --> Bootstrap utility classes
 --> Cards and buttons
 
+Day 16 - Responsive Navbar & Cards UI
+
 **AUTHOR**
 
 **VIGNESHWARAN**
