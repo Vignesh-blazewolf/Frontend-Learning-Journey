@@ -174,6 +174,7 @@ The goal of this repository is to maintain consistent development activity while
 --> Mobile-friendly layout
 
 **Concepts Used**
+--> Bootstrap navbar
 
  
 **AUTHOR**
