@@ -173,7 +173,7 @@ The goal of this repository is to maintain consistent development activity while
 --> Bootstrap cards
 --> Mobile-friendly layout
 
-Concepts Used
+**Concepts Used**
 
  
 **AUTHOR**
