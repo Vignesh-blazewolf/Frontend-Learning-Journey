@@ -179,7 +179,7 @@ The goal of this repository is to maintain consistent development activity while
 --> Cards
 --> Utility classes
 
-Day 17 - Portfolio Website
+**Day 17 - Portfolio Website**
 
  
 **AUTHOR**
