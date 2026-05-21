@@ -193,7 +193,7 @@ The goal of this repository is to maintain consistent development activity while
 **Concepts Used**
 --> Bootstrap grid system
 --> Responsive design
-
+--> Portfolio structuring
  
 **AUTHOR**
 
