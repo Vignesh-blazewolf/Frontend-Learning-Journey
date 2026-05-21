@@ -182,7 +182,7 @@ The goal of this repository is to maintain consistent development activity while
 **Day 17 - Portfolio Website**
 --> Built a responsive personal portfolio website.
 
-Features
+**Features**
 
  
 **AUTHOR**
