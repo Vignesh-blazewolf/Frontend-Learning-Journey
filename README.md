@@ -190,7 +190,7 @@ The goal of this repository is to maintain consistent development activity while
 --> Projects showcase
 --> Contact section
 
-Concepts Used
+**Concepts Used**
 
  
 **AUTHOR**
