@@ -186,6 +186,7 @@ The goal of this repository is to maintain consistent development activity while
 --> Responsive navbar
 --> Hero section
 --> About section
+--> Skills section
 
  
 **AUTHOR**
