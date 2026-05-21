@@ -184,6 +184,7 @@ The goal of this repository is to maintain consistent development activity while
 
 **Features**
 --> Responsive navbar
+--> Hero section
 
  
 **AUTHOR**
