@@ -194,6 +194,7 @@ The goal of this repository is to maintain consistent development activity while
 --> Bootstrap grid system
 --> Responsive design
 --> Portfolio structuring
+--> Multi-section layouts
  
 **AUTHOR**
 
