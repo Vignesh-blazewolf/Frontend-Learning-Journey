@@ -188,6 +188,7 @@ The goal of this repository is to maintain consistent development activity while
 --> About section
 --> Skills section
 --> Projects showcase
+--> Contact section
 
  
 **AUTHOR**
