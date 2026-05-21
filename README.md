@@ -183,6 +183,7 @@ The goal of this repository is to maintain consistent development activity while
 --> Built a responsive personal portfolio website.
 
 **Features**
+--> Responsive navbar
 
  
 **AUTHOR**
