@@ -187,6 +187,7 @@ The goal of this repository is to maintain consistent development activity while
 --> Hero section
 --> About section
 --> Skills section
+--> Projects showcase
 
  
 **AUTHOR**
