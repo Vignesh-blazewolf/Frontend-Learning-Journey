@@ -191,6 +191,7 @@ The goal of this repository is to maintain consistent development activity while
 --> Contact section
 
 **Concepts Used**
+--> Bootstrap grid system
 
  
 **AUTHOR**
