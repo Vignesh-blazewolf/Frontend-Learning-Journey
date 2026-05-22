@@ -195,6 +195,8 @@ The goal of this repository is to maintain consistent development activity while
 --> Responsive design
 --> Portfolio structuring
 --> Multi-section layouts
+
+Day 18 - Bootstrap Components
  
 **AUTHOR**
 
