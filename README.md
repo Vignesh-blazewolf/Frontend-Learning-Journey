@@ -204,6 +204,8 @@ The goal of this repository is to maintain consistent development activity while
 --> Bootstrap carousel
 --> Styled buttons
 --> Responsive layout
+
+Concepts Used
  
 **AUTHOR**
 
