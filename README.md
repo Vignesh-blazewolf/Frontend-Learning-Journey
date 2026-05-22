@@ -205,7 +205,7 @@ The goal of this repository is to maintain consistent development activity while
 --> Styled buttons
 --> Responsive layout
 
-Concepts Used
+**Concepts Used**
  
 **AUTHOR**
 
