@@ -202,6 +202,7 @@ The goal of this repository is to maintain consistent development activity while
 **Features**
 --> Bootstrap modal
 --> Bootstrap carousel
+--> Styled buttons
  
 **AUTHOR**
 
