@@ -198,6 +198,8 @@ The goal of this repository is to maintain consistent development activity while
 
 **Day 18 - Bootstrap Components**
 --> Implemented interactive Bootstrap UI components.
+
+Features
  
 **AUTHOR**
 
