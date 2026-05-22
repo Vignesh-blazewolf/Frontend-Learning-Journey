@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bootstrap Components</title>
+
+    <!-- Bootstrap CSS -->
+    <link
+        href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+        rel="stylesheet">
+</head>
+<body>
+
+    <!-- Navbar -->
+    <nav class="navbar navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="#">MyUI</a>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="container text-center py-5">
+        <h1 class="display-4">Bootstrap Components</h1>
+        <p class="lead">
+            Exploring interactive Bootstrap features.
+        </p>
+
+        <!-- Modal Button -->
+        <button
+            class="btn btn-primary btn-lg"
+            data-bs-toggle="modal"
+            data-bs-target="#exampleModal">
+
+            Open Modal
+        </button>
+    </section>
+
+    <!-- Carousel -->
+    <div id="carouselExample"
+         class="carousel slide container mb-5"
+         data-bs-ride="carousel">
+
+        <div class="carousel-inner">
+
+            <div class="carousel-item active">
+                <img
+                    src="https://via.placeholder.com/900x300"
+                    class="d-block w-100"
+                    alt="Slide 1">
+            </div>
+
+            <div class="carousel-item">
+                <img
+                    src="https://via.placeholder.com/900x300/cccccc"
+                    class="d-block w-100"
+                    alt="Slide 2">
+            </div>
+
+            <div class="carousel-item">
+                <img
+                    src="https://via.placeholder.com/900x300/999999"
+                    class="d-block w-100"
+                    alt="Slide 3">
+            </div>
+
+        </div>
+
+        <!-- Carousel Controls -->
+        <button
+            class="carousel-control-prev"
+            type="button"
+            data-bs-target="#carouselExample"
+            data-bs-slide="prev"
+            title="Previous Slide">
+
+            <span class="carousel-control-prev-icon"></span>
+        </button>
+
+        <button
+            class="carousel-control-next"
+            type="button"
+            data-bs-target="#carouselExample"
+            data-bs-slide="next"
+            title="Next Slide">
+
+            <span class="carousel-control-next-icon"></span>
+        </button>
+
+    </div>
+
+    <!-- Modal -->
+    <div
+        class="modal fade"
+        id="exampleModal"
+        tabindex="-1"
+        aria-labelledby="exampleModalLabel"
+        aria-hidden="true">
+
+        <div class="modal-dialog">
+            <div class="modal-content">
+
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">
+                        Welcome
+                    </h5>
+
+                    <button
+                        type="button"
+                        class="btn-close"
+                        data-bs-dismiss="modal"
+                        aria-label="Close"
+                        title="Close">
+                    </button>
+                </div>
+
+                <div class="modal-body">
+                    This is a Bootstrap modal component.
+                </div>
+
+                <div class="modal-footer">
+                    <button
+                        type="button"
+                        class="btn btn-secondary"
+                        data-bs-dismiss="modal">
+
+                        Close
+                    </button>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS -->
+    <script
+        src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js">
+    </script>
+
+</body>
+</html>
